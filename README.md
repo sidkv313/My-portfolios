@@ -43,6 +43,8 @@ Here are some examples of how to use the tool:
 - Analyze a cantilever beam with a point load at the free end.
 - Calculate the deflection of a fixed-fixed beam under a uniform load.
 
+  
+
 ## Project Structure
 
 The project includes the following file and directories:
@@ -212,6 +214,42 @@ To run the Smoking Trends Analysis project locally, follow these steps:
 1. Clone this repository to your local machine.
 2. Ensure you have the required libraries installed (Plotly, Seaborn, Matplotlib, Pandas, and NumPy).
 3. Run the Python script `smoking_trends_analysis.py`.
+
+# Research Project (Biodiesel Production Optimization)
+
+## Overview
+
+Biodiesel production and utilization are crucial areas of study aimed at developing eco-friendly and low-carbon footprint energy alternatives. This project employs machine learning-based predictive modeling to optimize the biodiesel manufacturing process. The objective is to maximize productivity while ensuring the highest quality of biodiesel. Four powerful machine learning algorithms—linear regression, random forest regression, AdaBoost regression, and artificial neural network—are investigated in-depth to quantify the response properties of the biodiesel production process based on various process parameters.
+
+## Features
+
+- **Machine Learning Algorithms:** Explore the effectiveness of linear regression, random forest regression, AdaBoost regression, and artificial neural network in predicting biodiesel yield.
+- **Optimization Strategy:** Utilize the random forest regression model for predicting the optimal values of process parameters such as methanol/oil molar ratio (𝑀r), catalyst weight (𝑊c), temperature (𝑇), and reaction time (𝑇r) to achieve maximum biodiesel yield (%).
+- **Performance Evaluation:** Evaluate and compare the accuracy of different machine learning algorithms in predicting biodiesel yield based on experimental data.
+
+## Tools and Technologies Used
+
+- **Machine Learning Libraries:** Scikit-learn for implementing machine learning algorithms.
+- **Python:** The programming language used for model development and analysis.
+- **Data Analysis:** Pandas and NumPy for data manipulation and numerical computations.
+- **Visualization:** Matplotlib for visualizing biodiesel yield and process parameters.
+- **GitHub:** Hosted on GitHub for version control and collaboration.
+
+## Usage
+
+To explore the biodiesel production optimization tool, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Install the required dependencies by running `pip install -r requirements.txt`.
+3. Run the application or analysis scripts to observe biodiesel yield predictions and optimization recommendations.
+
+## Results and Discussion
+
+The random forest regression model demonstrates superior accuracy in predicting biodiesel yield compared to other algorithms. Optimal process parameters, including methanol/oil molar ratio, catalyst weight, temperature, and reaction time, are identified for maximizing biodiesel yield. The results suggest that maintaining specific ranges for these parameters leads to a significant increase in yield percentage.
+
+## Conclusion
+
+This project highlights the potential of machine learning in optimizing biodiesel production. The random forest regression model emerges as a preferred choice, providing accurate predictions and efficient optimization strategies. The tool aims to contribute to the development of sustainable and environmentally friendly energy alternatives, aligning with global efforts to reduce reliance on traditional fossil fuels.
 
 
 
