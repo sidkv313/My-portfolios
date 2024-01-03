@@ -5,22 +5,29 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **Email:** sid6mag@gmail.com
 - **LinkedIn:** [Siddharth K](https://www.linkedin.com/in/sidk17/)
 
-<!-- Project 1 -->
-<div style="display: flex; border: 1px solid #ccc; padding: 10px; border-radius: 5px; margin-bottom: 20px;">
-  <img src="https://github.com/zenvall/Structural-Analysis-Tools-Web-application-/blob/main/structool-1.png" alt="Project 1" width="150" height="150" style="margin-right: 20px; border-radius: 5px;">
-  <div>
+<div style="display: flex;">
+
+  <!-- Project 1 -->
+  <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 5px; margin-right: 10px;">
+    <img src="https://github.com/zenvall/Structural-Analysis-Tools-Web-application-/blob/main/structool-1.png" alt="Project 1" width="150" height="150" style="margin-bottom: 10px; border-radius: 5px;">
     <h2>Project 1 Title</h2>
     <p>Description of Project 1 goes here. Provide a concise overview of the goals, technologies used, and any key outcomes or features.</p>
   </div>
-</div>
 
-<!-- Project 2 -->
-<div style="display: flex; border: 1px solid #ccc; padding: 10px; border-radius: 5px; margin-bottom: 20px;">
-  <img src="https://github.com/zenvall/Structural-Analysis-Tools-Web-application-/blob/main/structool-1.png" alt="Project 2" width="150" height="150" style="margin-right: 20px; border-radius: 5px;">
-  <div>
+  <!-- Project 2 -->
+  <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 5px; margin-right: 10px;">
+    <img src="https://github.com/zenvall/Structural-Analysis-Tools-Web-application-/blob/main/structool-1.png" alt="Project 2" width="150" height="150" style="margin-bottom: 10px; border-radius: 5px;">
     <h2>Project 2 Title</h2>
     <p>Description of Project 2 goes here. Provide a concise overview of the goals, technologies used, and any key outcomes or features.</p>
   </div>
+
+  <!-- Project 3 -->
+  <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
+    <img src="https://github.com/zenvall/Structural-Analysis-Tools-Web-application-/blob/main/structool-1.png" alt="Project 3" width="150" height="150" style="margin-bottom: 10px; border-radius: 5px;">
+    <h2>Project 3 Title</h2>
+    <p>Description of Project 3 goes here. Provide a concise overview of the goals, technologies used, and any key outcomes or features.</p>
+  </div>
+
 </div>
 
 
