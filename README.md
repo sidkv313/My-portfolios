@@ -6,7 +6,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **LinkedIn:** [Siddharth K](https://www.linkedin.com/in/sidk17/)
 
 <div style="display: flex; border: 1px solid #ccc; padding: 10px; border-radius: 5px; align-items: center;">
-  <img src="[path/to/project_image.png](https://github.com/zenvall/Structural-Analysis-Tools-Web-application-/blob/main/structool-1.png)" alt="Project" width="150" height="150" style="margin-right: 20px; border-radius: 5px;">
+  <img src="[path/to/project_image.png](https://github.com/zenvall/Structural-Analysis-Tools-Web-application-/blob/main/structool-1.png" alt="Project" width="150" height="150" style="margin-right: 20px; border-radius: 5px;">
   <div>
     <h2 style="margin-bottom: 10px;">Structural Analysis Tool</h2>
     <p style="max-width: 300px;">
