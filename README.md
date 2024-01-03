@@ -6,13 +6,13 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **LinkedIn:** [Siddharth K](https://www.linkedin.com/in/sidk17/)
 
 <div style="display: flex; align-items: center; border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
-  <img src="https://github.com/zenvall/Structural-Analysis-Tools-Web-application-/blob/main/structool-1.png" alt="Project Preview" width="100" height="100" style="margin-right: 20px; border-radius: 5px;">
+  <img src="https://github.com/zenvall/Structural-Analysis-Tools-Web-application-/blob/main/structool-1.png" alt="Project Preview" width="150" height="150" style="margin-right: 20px; border-radius: 5px;">
   <div>
-    <h2>Structural Analysis Tool</h2>
-    <p>A The Structural Analysis Tool is a web application designed to assist engineers and students in visualizing and analyzing the behavior of beams under various loads. It provides insights into key structural properties and diagrams, allowing users to make informed design decisions. This tool is built using Streamlit and Matplotlib for visualization.
-</p>
+    <h2>Project Title</h2>
+    <p>A brief description of your project goes here. Provide a concise overview of the goals, technologies used, and any key outcomes or features. You can include relevant details such as the purpose of the project, its impact, or unique aspects that make it stand out.</p>
   </div>
 </div>
+
 
 Projects
 # Structural Analysis Tool
