@@ -5,27 +5,14 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **Email:** sid6mag@gmail.com
 - **LinkedIn:** [Siddharth K](https://www.linkedin.com/in/sidk17/)
 
-<div style="display: flex; flex-direction: row; gap: 20px;">
-  <!-- Project 1 Box -->
-  <div style="display: flex; align-items: center; border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
-    <img src="https://github.com/zenvall/Structural-Analysis-Tools-Web-application-/blob/main/structool-1.pngg" alt="Project 1" width="150" height="150" style="margin-right: 20px; border-radius: 5px;">
-    <div>
-      <h2>Project 1 Title</h2>
-      <p>Description of Project 1 goes here. Provide a concise overview of the goals, technologies used, and any key outcomes or features.</p>
-    </div>
+<div style="display: flex; border: 1px solid #ccc; padding: 10px; border-radius: 5px; align-items: center;">
+  <img src="https://github.com/zenvall/Structural-Analysis-Tools-Web-application-/blob/main/structool-1.png" alt="Project" width="150" height="150" style="margin-right: 20px; border-radius: 5px;">
+  <div>
+    <h2>Project Title</h2>
+    <p>Description of the project goes here. Provide a concise overview of the goals, technologies used, and any key outcomes or features.</p>
   </div>
-
-  <!-- Project 2 Box -->
-  <div style="display: flex; align-items: center; border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
-    <img src="https://github.com/zenvall/Structural-Analysis-Tools-Web-application-/blob/main/structool-1.png" alt="Project 2" width="150" height="150" style="margin-right: 20px; border-radius: 5px;">
-    <div>
-      <h2>Project 2 Title</h2>
-      <p>Description of Project 2 goes here. Provide a concise overview of the goals, technologies used, and any key outcomes or features.</p>
-    </div>
-  </div>
-  
-  <!-- Add more projects as needed -->
 </div>
+
 
 
 Projects
