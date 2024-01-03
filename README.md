@@ -8,7 +8,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 |  Major Projects                                       | Project Title              | Description                                                                                                               |
 | ----------------------------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/zenvall/My-portfolios/blob/main/pictures/Biodiselp.gif" alt="bio" width="1800" height="250"> | [Predictive Modelling of BioFuel](https://github.com/zenvall/Predictive-Modelling-of-Biodiesel-Production/tree/main)   |Four machine learning algorithms were used to assess predictive models for biodiesel yield based on process variables such as catalyst weight, temperature, and reaction time. AdaBoost and random forest regression fared incredibly well, whereas artificial neural networks and linear regression demonstrated modest accuracy. |
+| <img src="https://github.com/zenvall/My-portfolios/blob/main/pictures/Biodiselp.gif" alt="bio" width="450" height="250"> | [Predictive Modelling of BioFuel](https://github.com/zenvall/Predictive-Modelling-of-Biodiesel-Production/tree/main)   |Four machine learning algorithms were used to assess predictive models for biodiesel yield based on process variables such as catalyst weight, temperature, and reaction time. AdaBoost and random forest regression fared incredibly well, whereas artificial neural networks and linear regression demonstrated modest accuracy. |
 |  <img src="--" alt="--" width="1600" height="250">| [--](--)          | ------------------------------------------------
  |
 
