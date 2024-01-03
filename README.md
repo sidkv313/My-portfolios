@@ -38,7 +38,6 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
   - MySQL
   - Tableau
   - Git
-  - PySpark
   - Amazon Web Services (AWS)
   - MS Excel
 
