@@ -47,7 +47,6 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - [Intern at IOCL](https://github.com/zenvall/My-portfolios/blob/main/certifications/IOCL%20Certificate.pdf)
 - [Full stack webdev Certification](https://github.com/zenvall/My-portfolios/blob/main/certifications/Full%20Stack%20webdev%20Certification.pdf) 
 - [MS Execl Certification](https://github.com/zenvall/My-portfolios/blob/main/certifications/MS%20Execl%20Certification.pdf)
-- [swayam photojournalism Certification](https://github.com/zenvall/My-portfolios/blob/main/certifications/swayam%20photojournalism%20result.pdf)
 - [Data Science Bootcamp Certification](https://github.com/zenvall/My-portfolios/blob/main/certifications/Complete%20Data%20science.pdf)
   
 
