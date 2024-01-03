@@ -6,9 +6,9 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **LinkedIn:** [Siddharth K](https://www.linkedin.com/in/sidk17/)
 
 Projects
-# Project Picture
+# Structural Analysis Tool
 
-![Project Banner](URL_TO_PROJECT_PICTURE)
+![overview](https://github.com/zenvall/Structural-Analysis-Tools-Web-application-/blob/main/structool-1.png)
 
 **[Structural Analysis Tool](https://github.com/zenvall/Structural-Analysis-Tools-Web-application-/tree/main)**
 
