@@ -8,7 +8,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 <div style="display: flex; align-items: center; border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
   <img src="https://github.com/zenvall/Structural-Analysis-Tools-Web-application-/blob/main/structool-1.png" alt="Project Preview" width="150" height="150" style="margin-right: 20px; border-radius: 5px;">
   <div>
-    <h2>Project Title</h2>
+    <h2 style="margin-bottom: 10px;">Project Title</h2>
     <p>A brief description of your project goes here. Provide a concise overview of the goals, technologies used, and any key outcomes or features. You can include relevant details such as the purpose of the project, its impact, or unique aspects that make it stand out.</p>
   </div>
 </div>
