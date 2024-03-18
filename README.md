@@ -44,8 +44,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 - [Google Data Analytics ](https://github.com/zenvall/My-portfolios/blob/main/certifications/Google_Data%20Analystics.pdf)
 - [Machine Learning IBM](https://github.com/zenvall/My-portfolios/blob/main/certifications/IBM_Machine_Learning.pdf)
-- [Intern at IOCL](https://github.com/zenvall/My-portfolios/blob/main/certifications/IOCL%20Certificate.pdf)
-- [Full stack webdev Certification](https://github.com/zenvall/My-portfolios/blob/main/certifications/Full%20Stack%20webdev%20Certification.pdf) 
+- [Full stack Webdev Certification](https://github.com/zenvall/My-portfolios/blob/main/certifications/Full%20Stack%20webdev%20Certification.pdf) 
 - [MS Excel Certification](https://github.com/zenvall/My-portfolios/blob/main/certifications/MS%20Execl%20Certification.pdf)
 - [Data Science Bootcamp Certification](https://github.com/zenvall/My-portfolios/blob/main/certifications/Complete%20Data%20science.pdf)
   
