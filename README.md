@@ -2,8 +2,8 @@
 
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning, and hobby purposes. This portfolio also contains my achievements, skills, and certificates. It is updated on a regular basis.
 
-- **Email:** sid6mag@gmail.com
-- **LinkedIn:** [Siddharth K](https://www.linkedin.com/in/sidk17/)
+- **Email:** sid6mag@aol.com
+- **LinkedIn:** [Siddharth K](https://www.linkedin.com/in/sidk6/)
 
 
 |  Major Projects                                       | Project Title              | Description                                                                                                               |
