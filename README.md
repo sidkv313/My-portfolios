@@ -2,22 +2,24 @@
 
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning, and hobby purposes. This portfolio also contains my achievements, skills, and certificates. It is updated on a regular basis.
 
-- **Email:** sid6mag@aol.com
+- **Email:** sid.aterr@gmail.com
 - **LinkedIn:** [Siddharth K](https://www.linkedin.com/in/sid6/)
 
-
+<!---
 |  Major Projects                                       | Project Title              | Description                                                                                                               |
 | ----------------------------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://github.com/zenvall/My-portfolios/blob/main/pictures/Biodiselp.gif" alt="bio" width="450" height="250"> | [Predictive Modelling of BioFuel](https://github.com/zenvall/Predictive-Modelling-of-Biodiesel-Production/tree/main)   |Four machine learning algorithms were used to assess predictive models for biodiesel yield based on process variables such as catalyst weight, temperature, and reaction time. AdaBoost and random forest regression fared incredibly well, whereas artificial neural networks and linear regression demonstrated modest accuracy. |
 | <img src="https://github.com/zenvall/My-portfolios/blob/main/pictures/skin.png" alt="bio" width="450" height="250"> | [Cancer Detection](https://github.com/zenvall/Cancer-detection/tree/main)   |The Skin Cancer Detection model, developed using TensorFlow and EfficientNet architecture, is designed for image-based diagnosis of skin cancer types and stages. Utilizing transfer learning with pre-trained weights, the model achieves enhanced performance. Integrated with FastAPI, the model becomes accessible for users, enabling efficient diagnosis without the need for medical expertise. This machine learning-powered solution aims to provide a reliable and automated method for skin cancer detection, contributing to early diagnosis and improved patient outcomes. |
 
 
+-->
 
 
 
 
 
-|   Minor Projects                                      | Project Title              | Description                                                                                                               |
+
+|    Projects                                      | Project Title              | Description                                                                                                               |
 | ----------------------------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://github.com/zenvall/My-portfolios/blob/main/pictures/s-1.png" alt="Structural Analysis Tool" width="1800" height="250"> | [Structural Analysis Tool](https://github.com/zenvall/Structural-Analysis-Tools-Web-application-/)   | The Structural Analysis Tool is a web application designed to assist engineers and students in visualizing and analyzing the behavior of beams under various loads. It provides insights into key structural properties and diagrams, allowing users to make informed design decisions. This tool is built using Streamlit and Matplotlib for visualization. [WebApp](https://structuralanalysistool.streamlit.app/) |
 |  <img src="https://github.com/zenvall/My-portfolios/blob/main/pictures/Covid.jpg" alt="Covid" width="1600" height="250">| [Covid-19 Data Analysis](https://github.com/zenvall/Covid-19-Data-Analysis)          | The COVID-19 Data Analysis Project is an exploration of COVID-19 data for India, covering information such as confirmed cases, recoveries, deaths, and vaccination statistics. The project utilizes Python libraries including Pandas, NumPy, Matplotlib, Seaborn, and Plotly for data analysis and visualization.
