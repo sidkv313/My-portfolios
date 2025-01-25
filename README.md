@@ -25,17 +25,18 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 
 ## Core Competencies
-
+<!---
 - **Methodologies:** Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics
-
+-->
 - **Languages:**
-  - Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib)
+  - Python (Pandas, Numpy, Matplotlib, Seaborn)
   - SQL
   - C++
 
 - **Tools:**
   - MySQL
   - Tableau
+  - Power BI
   - Git
   - MS Excel
 
@@ -46,5 +47,5 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - [Full stack Webdev Certification](https://github.com/zenvall/My-portfolios/blob/main/certifications/Full%20Stack%20webdev%20Certification.pdf) 
 - [MS Excel Certification](https://github.com/zenvall/My-portfolios/blob/main/certifications/MS%20Execl%20Certification.pdf)
 - [Data Science Bootcamp Certification](https://github.com/zenvall/My-portfolios/blob/main/certifications/Complete%20Data%20science.pdf)
-  
+- [certifications/IOCL_certification.pdf](https://github.com/ksid10/My-portfolios/blob/main/certifications/IOCL_certification.pdf)
 
