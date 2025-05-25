@@ -9,6 +9,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 |  Major Projects                                       | Project Title              | Description                                                                                                               |
 | ----------------------------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://github.com/zenvall/My-portfolios/blob/main/pictures/Biodiselp.gif" alt="bio" width="450" height="250"> | [Predictive Modelling of BioFuel](https://github.com/zenvall/Predictive-Modelling-of-Biodiesel-Production/tree/main)   |Four machine learning algorithms were used to assess predictive models for biodiesel yield based on process variables such as catalyst weight, temperature, and reaction time. AdaBoost and random forest regression fared incredibly well, whereas artificial neural networks and linear regression demonstrated modest accuracy. |
+| <img src="https://github.com/ksid10/Life-Expectancy-Analysis-Dashboard-Project/blob/main/pictures/pbi-1.PNG" alt="Covid" width="1600" height="250">|[Deep Crack: Image-Based Crack Prediction System](https://github.com/sidkv313/Deep-Crack-Advanced-Infrastructure-Crack-Detection-System)|Deep Crack is a web-based application for automated detection of cracks in infrastructure images using deep learning.
 
 
 
