@@ -9,10 +9,6 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 |  Major Projects                                       | Project Title              | Description                                                                                                               |
 | ----------------------------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://github.com/zenvall/My-portfolios/blob/main/pictures/Biodiselp.gif" alt="bio" width="450" height="250"> | [Predictive Modelling of BioFuel](https://github.com/zenvall/Predictive-Modelling-of-Biodiesel-Production/tree/main)   |Four machine learning algorithms were used to assess predictive models for biodiesel yield based on process variables such as catalyst weight, temperature, and reaction time. AdaBoost and random forest regression fared incredibly well, whereas artificial neural networks and linear regression demonstrated modest accuracy. |
-| <img src="https://github.com/zenvall/My-portfolios/blob/main/pictures/skin.png" alt="bio" width="450" height="250"> | [Cancer Detection](https://github.com/zenvall/Cancer-detection/tree/main)   |The Skin Cancer Detection model, developed using TensorFlow and EfficientNet architecture, is designed for image-based diagnosis of skin cancer types and stages. Utilizing transfer learning with pre-trained weights, the model achieves enhanced performance. Integrated with FastAPI, the model becomes accessible for users, enabling efficient diagnosis without the need for medical expertise. This machine learning-powered solution aims to provide a reliable and automated method for skin cancer detection, contributing to early diagnosis and improved patient outcomes. |
-
-
-
 
 
 
