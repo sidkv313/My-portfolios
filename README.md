@@ -30,7 +30,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **Languages:**
   - Python 
   - SQL
-  - C++
+  - Rust
 
 - **Tools:**
   - MySQL
@@ -46,6 +46,5 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - [Full stack Webdev Certification](https://github.com/sidkv313/My-portfolios/blob/main/certifications/Full%20Stack%20webdev%20Certification.pdf) 
 - [MS Excel Certification](https://github.com/sidkv313/My-portfolios/blob/main/certifications/MS%20Execl%20Certification.pdf)
 - [Data Science Bootcamp Certification](https://github.com/sidkv313/My-portfolios/blob/main/certifications/Data%20science-Bootcamp%20Certification%20.pdf)
-
-<!---- [IOCL_certification.pdf](https://github.com/ksid10/My-portfolios/blob/main/certifications/IOCL_certification.pdf)-->
+- [IOCL_certification.pdf](https://github.com/ksid10/My-portfolios/blob/main/certifications/IOCL_certification.pdf)
 
