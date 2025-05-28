@@ -45,5 +45,5 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - [Machine Learning IBM](https://github.com/sidkv313My-portfolios/blob/main/certifications/IBM_Machine_Learning.pdf)
 - [Full stack Webdev Certification](https://github.com/sidkv313/My-portfolios/blob/main/certifications/Full%20Stack%20webdev%20Certification.pdf) 
 - [MS Excel Certification](https://github.com/sidkv313/My-portfolios/blob/main/certifications/MS%20Execl%20Certification.pdf)
-- [Data Science Bootcamp Certification](https://github.com/sidkv313/My-portfolios/blob/main/certifications/Data%20science-Bootcamp%20Certification%20.
+- [Data Science Bootcamp Certification](https://github.com/sidkv313/My-portfolios/blob/main/certifications/Data%20science-Bootcamp%20Certification%20.pdf)
 
